@@ -2,16 +2,16 @@
 
 My answers to the problem sets on [Harvard's CS50 SQL course](https://cs50.harvard.edu/sql/).
 
-Lesson 1: Querying
+Lesson 0: Querying
 
-Lesson 2: Relating
+Lesson 1: Relating
 
-Lesson 3: Designing
+Lesson 2: Designing
 
-Lesson 4: Writing
+Lesson 3: Writing
 
-Lesson 5: Viewing
+Lesson 4: Viewing
 
-Lesson 6: Optimizing
+Lesson 5: Optimizing
 
-Lesson 7: Scaling
+Lesson 6: Scaling
