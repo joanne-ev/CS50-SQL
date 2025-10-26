@@ -21,7 +21,7 @@ WHERE "long" = '';
 
 -- Round decimal values to two decimal points
 UPDATE meteorites_temp
-SET "mass" = ROUND("mass", 2), "lat" = ROUND("lat", 2), "long" = ROUND("lat", 2);
+SET "mass" = ROUND("mass", 2), "lat" = ROUND("lat", 2), "long" = ROUND("long", 2);
 
 -- Remove meteorites with nametype 'Relict'
 DELETE FROM meteorites_temp
